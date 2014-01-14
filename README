@@ -1,0 +1,4 @@
+The sudo mesh firmware builder for the extroot firmware.
+
+This firmware is a very minimal deviation from OpenWRT and only installs what is needed to boot the actual system from an external drive (e.g. a usb stick).
+

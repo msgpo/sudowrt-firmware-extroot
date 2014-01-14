@@ -1,0 +1,12 @@
+blkid
+block-mount
+kmod-fs-ext4
+kmod-lib-crc16
+kmod-nls-base
+kmod-scsi-core
+kmod-usb-core
+kmod-usb-ohci
+kmod-usb-storage
+libblkid
+libuuid
+swap-utils
